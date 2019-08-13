@@ -21,5 +21,6 @@ https://blog.angular-university.io/angular-jwt-authentication/
 Tutorial baby step: 
 https://www.youtube.com/watch?v=rajjv-0bSps
 
-_____________________________________________________ DONE: _____________________________________________________ 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+DONE: 
 
